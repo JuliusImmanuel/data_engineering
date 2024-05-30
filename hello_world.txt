@@ -1,4 +1,6 @@
 Hello World
 
 this is my github excercise for data engineering
-Syalalala
+
+János Bolyai (15 Desember 1802 – 27 Januari 1860) adalah matematikawan Hungaria, terkenal untuk karyanya dalam geometri non-Euklides.
+Bolyai merupakan anak matematikawan Farkas Bolyai.
